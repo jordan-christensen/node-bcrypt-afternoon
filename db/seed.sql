@@ -15,8 +15,6 @@ VALUES
 (true, 'Blackbeard', '$2a$10$KFR1RUO0JiFtCoux3mnJaemV6Ifnk0BOTdjm/VWh.uOZ97pD3X1Re'),
 (false, 'Skallywag', '$2a$10$dgo.HRAecEhFl8L0h.lJM.OeM2t8y5Pi3AmiBlfCXUIIS/PUtfwd.');
 
-
-
 DROP TABLE IF EXISTS treasures;
 CREATE TABLE treasures
 (
